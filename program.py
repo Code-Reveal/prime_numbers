@@ -1,5 +1,4 @@
 import os
-import sys
 from time import sleep as delay
 
 os.system('title Finding prime numbers... ')
